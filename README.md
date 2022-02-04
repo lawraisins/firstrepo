@@ -1,2 +1,2 @@
 # firstrepo
-SNN<S<M<SM<S
+# chu he ri dang wu
