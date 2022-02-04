@@ -1,2 +1,2 @@
 # firstrepo
-# chu he ri dang wu
+chu he ri dang wu
